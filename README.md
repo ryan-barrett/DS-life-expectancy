@@ -1,3 +1,5 @@
+Matthew Taylor, Rowena Terrado, Ryan Barrett
+
 ## Introduction
 It has been a constant goal of humanity to improve the lives of people through the quality of their health and well-being. The average life expectancy of a country’s population is a good indicator of this, but identifying what factors do affect life expectancy can be very helpful in achieving this improvement. Indicators relating to health, such as population habits and national investment in health infrastructure, seem to be most directly related, but other factors can be important as well. In this project, we will find if the quality of a country’s education system can be relevant in predicting life expectancy.
 
